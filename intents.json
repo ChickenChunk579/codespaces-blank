@@ -1,0 +1,10 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["hi", "hello", "hey there", "hey", "good morning", "good afternoon", "good evening"],
+            "responses": ["Hey!", "Good to see you again!", "Hi"],
+            "context_set": ""
+        }
+    ]
+}
